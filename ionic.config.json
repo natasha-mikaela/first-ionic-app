@@ -1,0 +1,8 @@
+{
+  "name": "gatinhos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bc012273"
+}
